@@ -1,8 +1,9 @@
-### PyTorch
-for pyTorch study. <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44187152/177483503-102fd756-f7c7-4c05-b567-8cf0a1e6cee7.png"/>
 </p> 
+
+### PyTorch
+for pyTorch study.
 
 ### This repo
 this repo made for study PyTorch and lab subject.
