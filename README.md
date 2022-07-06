@@ -13,8 +13,7 @@ used <strong>Python</strong> language.
 
 ### List
 - PyTorch_Tutorial
-  - use to https://tutorials.pytorch.kr/beginner/basics/intro.html ( pytorch 한국 사용자 모임 )
-  - 
+  - use https://tutorials.pytorch.kr/beginner/basics/intro.html ( pytorch 한국 사용자 모임 )
   <pre>
   1. 텐서(Tensor)
   
