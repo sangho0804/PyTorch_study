@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/44187152/177483503-102fd756-f7c7-4c05-b567-8cf0a1e6cee7.png)
+
+
 ### PyTorch
 for pyTorch study. <br>
 
@@ -10,6 +13,7 @@ used <strong>Python</strong> language.
 ### List
 - PyTorch_Tutorial
   - use to https://tutorials.pytorch.kr/beginner/basics/intro.html ( pytorch 한국 사용자 모임 )
+  - 
   <pre>
   1. 텐서(Tensor)
   
